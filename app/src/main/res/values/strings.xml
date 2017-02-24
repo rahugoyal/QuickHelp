@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuickHelp</string>
+    <string name="app_detail"><i>For more detail of this app , please click on the <b>Help</b> button below</i></string>
+    <string name="help_content"><b><i>Android App version 1.0.0</i></b> \n\n\nThis is alpha version of this app. it is still evolving and we are committed to making it a little better each day \n\n\nCrash reports are automatically reported back to us. \n\n\n<b><i>Copyright 2016 , Rahul Goyal  </i></b>\n<b><i>Developed by - Rahul Goyal</i></b>\n\n\n<i>This is a app which helps when you are in trouble. \n\n<b><u>How to use</u> -</b> \njust click 5 times on power button and it will send message to three friends which you have registered. In this message along with your help message , your current location also send to your friends.</i><b>\n\n102 - Jagan Nilayam \nKondapur Signal, Miyapur Road \nHyderabad (Telangana) - 500084</b>\n\n\n<b>Rahul Goyal , Android Developer</b>\n<i>rahulgoyalsbl005@gmail.com</i>\n<i>+91-7354266244</i></string>
+
+</resources>

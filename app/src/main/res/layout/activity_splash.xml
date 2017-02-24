@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_image"
+    android:gravity="center"
+    tools:context="com.example.rahul.quickhelp.activities.SplashActivity">
+    <ImageView
+        android:id="@+id/iv_splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/splash_ic" />
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/iv_splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:textColor="#ffffff"
+        android:text="Need Help!"/>
+
+</RelativeLayout>
